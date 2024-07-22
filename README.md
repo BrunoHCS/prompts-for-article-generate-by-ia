@@ -37,9 +37,9 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 Comporte-se como um escritor de artigos tech backend e escreva um artigo atendendo as regras abaixo:
 
 {REGRAS}
- No máximo 5 linhas por blocos de explicação.
- Me explique de maneira informal, como se eu fosse um adolescente de 15 anos.
- Os blocos que serão criados estão abaixo:
+No máximo 5 linhas por blocos de explicação.
+Me explique de maneira informal, como se eu fosse um adolescente de 15 anos.
+Os blocos que serão criados estão abaixo:
 - O que é LINQ e Expressões Lambda.
 - Cite exemplos com códigos de LINQ e Expressões Lambda.
 - Faça um call to action para minhas redes sociais.
